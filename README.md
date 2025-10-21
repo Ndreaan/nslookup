@@ -2,6 +2,10 @@
 
 python3 nslookup_devasc_history.py (perintah untuk menjalankan program)
 
+sebelum menjalankan program pastikan sudah install :
+sudo apt install dnsutils
+pip3 install colorama
+
 #!/usr/bin/env python3
 # ==========================================================
 # Program : DNS NSLOOKUP DEVASC (Manual + Riwayat)
