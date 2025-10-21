@@ -1,4 +1,4 @@
-# nslookup
+# nslookup pada linux devasc
 
 #!/usr/bin/env python3
 # ==========================================================
