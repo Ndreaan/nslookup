@@ -1,5 +1,7 @@
 # nslookup pada linux devasc
 
+python3 nslookup_devasc_history.py (perintah untuk menjalankan program)
+
 #!/usr/bin/env python3
 # ==========================================================
 # Program : DNS NSLOOKUP DEVASC (Manual + Riwayat)
